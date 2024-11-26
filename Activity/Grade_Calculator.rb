@@ -1,8 +1,3 @@
-#Scenario: A student named Alex is studying 3 subjects: Mathematics, Science, and English. Alex scored 85 in Mathematics, 90 in Science, and 72 in English.
-#Question:
-#What will Alex's report card look like, including the overall grade?
-#Run the program with these inputs and verify the results.
-
 class GradeCalculator
   def initialize
     @subjects = []
